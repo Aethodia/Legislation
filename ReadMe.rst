@@ -1,6 +1,6 @@
 Version
 =======
-| The version of this release is 1/0/0.  
+| This readme is for release v1/0/0.  
 
 About
 =====
