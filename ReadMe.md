@@ -1,6 +1,6 @@
 About
 =====
-The files in this directory and its subdirectories comprise the entirety of Theodian legislation.  
+The items in this directory recursively comprise the entirety of Theodian legislation.  
 
 Version
 =======
