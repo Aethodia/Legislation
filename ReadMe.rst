@@ -1,11 +1,11 @@
-Version
-=======
-| This readme is for release v1/0/0.  
-
 About
 =====
 | The files in this directory and its subdirectories comprise the 
   entirety of Theodian legislation.  
+
+Version
+=======
+| This readme is for release v1/0/0.  
 
 Where to start
 ==============
