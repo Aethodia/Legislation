@@ -15,7 +15,7 @@ B.  Contents
 #.  The **national coat of arms** is the image at ``/res/NationalCoA.png``.  
 #.  The **national sport** is **battlegaming**.  
 
-    #.  The **national ruleset** for this sport is ``/res/GameRules.rst``.  
+    #.  The **national ruleset** for this sport is ``/res/LarpRules.rst``.  
 #.  The **national religion** is **Unitarian Universalism**.  
 #.  The **national political ideology** is **radical centrism**.  
 #.  The **primary national language** is **Theodian**, which is defined at ``/res/Theodian``.  
