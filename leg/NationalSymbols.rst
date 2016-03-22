@@ -4,6 +4,8 @@
     ``/res/GameRules.rst``
     ``/res/NationalCoA.png``
     ``/res/NationalFlag.svg``
+    ``/res/Theodian``
+    ``/var/TheodianDone``
 
 A.  Abstract
 ===========
