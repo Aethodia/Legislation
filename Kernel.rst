@@ -17,13 +17,13 @@ Version:
 
 3:  Bootstrap
 =============
-| All non-kernel legislation is located in ``./leg`` or thence, recursively.  
-| This non-kernel legislation has the legal power to do anything, apart from contradict this kernel;  and this includes 
-  the power to restrict what other legislation can be passed.  
+| All **non-kernel legislation** is located in ``./leg`` or thence, recursively.  
+| This non-kernel legislation **has the legal power to do anything**, apart from contradict this kernel;  and this 
+  includes the power to restrict what other legislation can legally do.  
 | All non-kernel legislation considers the directory of this file to be its root directory.  
 
 4:  Notes
 =========
-| At this time, there is no way by which to ammend this kernel, except by the afore-defined dictator.  
-| This kernel may eventually be replaced by a proper constitution;  but, for the time-being, it is as intended:  a 
-  microkernel.  
+| At this time, there is **no way by which to ammend** this kernel, except by the afore-defined dictator.  
+| This kernel may eventually be replaced by a proper constitution;  but, for the time-being, it is as intended:  **a 
+  microkernel**.  
