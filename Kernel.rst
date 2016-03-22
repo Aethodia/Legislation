@@ -17,9 +17,10 @@ Head of state
 
 Bootstrap
 =========
-| All non-kernel legislation is located in ./leg or thence, recursively.  This non-kernel legislation has the legal power 
-  to do anything, apart from contradict this kernel;  and this includes the power to restrict what other legislation can 
-  be passed.  
+| All non-kernel legislation is located in ./leg or thence, recursively.  
+| This non-kernel legislation has the legal power to do anything, apart from contradict this kernel;  and this includes 
+  the power to restrict what other legislation can be passed.  
+| All non-kernel legislation considers the directory of this file to be its root directory.  
 
 Notes
 =====
