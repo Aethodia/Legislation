@@ -1,5 +1,5 @@
 | Version:  
-    1/0/0
+    ``1``/``0``/``0``
 | Depends:  
     ``/res/LarpRules.rst``
     ``/res/NationalAnthem.ogg``
