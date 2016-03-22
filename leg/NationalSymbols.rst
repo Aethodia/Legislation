@@ -5,11 +5,11 @@ Depends:
     /res/NationalCoA.png,
     /res/NationalFlag.svg
 
-Abstract
+1:  Abstract
 ========
 | This file denotes all national symbols and such.  
 
-Contents
+2:  Contents
 ========
 + The national flag is the image at /res/NationalFlag.svg
 + The national coat of arms is the image at /res/NationalCoA.png
