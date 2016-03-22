@@ -1,5 +1,5 @@
 # About
-The items in either the same directory as, or any sub-directory of, this ReadMe, apart from '.' and '..', and recursively speaking, collectively comprise the entirety of Theodian legislation.  
+The items in either the same directory as, or any sub-directory of, this ReadMe, apart from '.' and '..' and 'ReadMe.md' and 'License.txt', and recursively speaking, collectively comprise the entirety of Theodian legislation.  
 
 # Version
 This readme is for release v1/0/0.  
