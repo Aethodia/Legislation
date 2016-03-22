@@ -1,4 +1,5 @@
-Version:  1/0/0
+Version:  
+    1/0/0
 
 Introduction
 ============
@@ -10,15 +11,15 @@ Introduction
 Head of state
 =============
 | The founder of the original Kingdom of Theodia, whence this Theodia is derived, indefinitely has infinite and absolute 
-  power in the country;  this cannot be changed except by ser own hand and of ser own free will.  There are never to be any 
-  other dictators instituted in Theodia;  this also cannot be changed except by this person alone, by ser hand and ser 
+  power in the country;  this cannot be changed except by ser own hand and of ser own free will.  There are never to be 
+  any other dictators instituted in Theodia;  this also cannot be changed except by this person alone, by ser hand and ser 
   free will.  
 
 Bootstrap
 =========
-| All non-kernel legislation is located in ./leg or thence, recursively.  This non-kernel legislation has the legal power to 
-  do anything, apart from contradict this kernel;  and this includes the power to restrict what other legislation can be
-  passed.  
+| All non-kernel legislation is located in ./leg or thence, recursively.  This non-kernel legislation has the legal power 
+  to do anything, apart from contradict this kernel;  and this includes the power to restrict what other legislation can 
+  be passed.  
 
 Notes
 =====
