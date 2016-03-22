@@ -2,7 +2,7 @@
     ``1/0/0``
 | Depends:  
     ``/res/LarpRules.rst``
-    ``/res/NationalAnthem.flac``
+    ``/res/NationalAnthem.mid``
     ``/res/NationalCoA.svg``
     ``/res/NationalFlag.svg``
     ``/res/Theodian``
@@ -16,7 +16,7 @@ B.  Contents
 ===========
 #.  The national **flag** is the image at ``/res/NationalFlag.svg``.  
 #.  The national **coat of arms** is the image at ``/res/NationalCoA.svg``.  
-#.  The national **anthem** is the audio at ``/res/NationalAnthem.flac``.  
+#.  The national **anthem** is the audio at ``/res/NationalAnthem.mid``.  
 #.  The national **sport** is **battlegaming**.  
 
     #.  The national **ruleset** for this sport is ``/res/LarpRules.rst``.  
