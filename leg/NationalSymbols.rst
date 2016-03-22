@@ -5,11 +5,11 @@
     ``/res/NationalCoA.png``
     ``/res/NationalFlag.svg``
 
-1:  Abstract
+A.  Abstract
 ===========
 | This file denotes all national symbols and such.  
 
-2:  Contents
+B.  Contents
 ===========
 #.  The **national flag** is the image at ``/res/NationalFlag.svg``.  
 #.  The **national coat of arms** is the image at ``/res/NationalCoA.png``.  
