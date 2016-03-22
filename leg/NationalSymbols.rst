@@ -7,7 +7,7 @@
 
 A.  Abstract
 ===========
-| This file denotes all national symbols and such.  
+#.  This file denotes all national symbols and such.  
 
 B.  Contents
 ===========
