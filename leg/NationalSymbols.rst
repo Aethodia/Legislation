@@ -1,6 +1,6 @@
-Version:  
+| Version:  
     1/0/0
-Depends:  
+| Depends:  
     ``/res/GameRules.rst``
     ``/res/NationalCoA.png``
     ``/res/NationalFlag.svg``
