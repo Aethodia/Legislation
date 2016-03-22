@@ -1,7 +1,7 @@
 | Version:  
     1/0/0
 | Depends:  
-    ``/res/GameRules.rst``
+    ``/res/LarpRules.rst``
     ``/res/NationalCoA.png``
     ``/res/NationalFlag.svg``
     ``/res/Theodian``
