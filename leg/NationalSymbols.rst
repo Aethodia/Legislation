@@ -15,6 +15,6 @@ Depends:
 + The **national coat of arms** is the image at **/res/NationalCoA.png**.  
 + The **national sport** is **battlegaming**.  
 
-  - The official ruleset for this sport is **/res/GameRules.rst**.  
+  - The **national ruleset** for this sport is **/res/GameRules.rst**.  
 + The **national religion** is **Unitarian Universalism**.  
 + The **national political ideology** is **radical centrism**.  
