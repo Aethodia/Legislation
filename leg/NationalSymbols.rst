@@ -11,7 +11,7 @@ A.  Abstract
 
 B.  Contents
 ===========
-#.  The **national flag** is the image at **``/res/NationalFlag.svg``**.  
+#.  The **national flag** is the image at ``**/res/NationalFlag.svg**``.  
 #.  The **national coat of arms** is the image at **``/res/NationalCoA.png``**.  
 #.  The **national sport** is **battlegaming**.  
 
