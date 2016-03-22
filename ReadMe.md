@@ -1,4 +1,4 @@
-Everything in this repository is **copyright © CC-BY-SA 4.0 Int'l** (Creative Commons Attribution Share-Alike 4.0 International).  A copy of this license can be found in **`./License.txt`**.   
+Everything in this repository is **copyright © CC-BY-SA 4.0 Int'l** (Creative Commons Attribution Share-Alike 4.0 International).  A copy of this license can be found in `./License.txt`.   
 
 This readme is for release v1/0/0.  
 
