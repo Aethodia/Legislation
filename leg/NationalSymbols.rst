@@ -20,5 +20,5 @@ B.  Contents
 #.  The **national political ideology** is **radical centrism**.  
 #.  The **primary national language** is **Theodian**, which is defined at ``/res/Theodian``.  
 
-    #.  Until ``/var/TheodianDone`` reads 'true', **English will serve as the national language**.  
+    #.  Until ``/var/TheodianDone`` reads 'true', **English will substitute for Theodian**.  
 #.  The **secondary national languages** are:  **English**.  
