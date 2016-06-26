@@ -24,8 +24,8 @@ B.  Contents
         #.  Each law should consist of, at a minimum, the following sections:  
             
             #.  'Abstract', which summarizes the law.
-            #.  Any number of content-sections, which are the legally binding part of the law.
-            #.  'Footnotes', which contains any footnotes used in the law.  If the law has no footnotes, this section may be left out.
+            #.  Any number of content-sections, which are the legally binding part of the law.  Likewise, any footnotes pointing to this section are also legally binding.
+            #.  'Footnotes', which contains any footnotes used in the law.  If the law has no footnotes, this section may be left out.  
         #.  Outside of the 'Footnotes' section itself, footnotes do not need to appear in order -- although drafters are encouraged to place them so.
         #.  The most important parts of a law should properly be emboldened [2]_.
 #.  All legislation should be interpreted per the item(s) headed by this item:
