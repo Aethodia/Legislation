@@ -23,8 +23,8 @@ B.  Contents
 
     #.  The national **ruleset** for this sport **is** ``/res/LarpRules.rst``.  
 #.  The national **religion is Unitarian Universalism**, as **defined by the UUA** (Unitarian Universalist Association) which owns the UUA.org domain.  
-#.  The national **political idealogy is pragmatism**, as defined at ``/res/NationalIdealogy.rst``.  
-#.  The **primary** national **language is Theodian**, which is defined at ``/res/Theodian``.  
+#.  The national **political idealogy is pragmatism**, as **defined in** ``/res/NationalIdealogy.rst``.  
+#.  The **primary** national **language is Theodian**, which is **defined in** ``/res/Theodian.rst``.  
 
     #.  Until ``/var/bTheodianDone`` reads 'true', **English will substitute for Theodian**.  
-#.  The **secondary** national **languages** are:  **English** (as defined in ``/res/English``).  
+#.  The **secondary** national **languages** are:  **English** (as **defined in** ``/res/English.rst``).  
