@@ -23,7 +23,7 @@ B.  Contents
 
     #.  The national **ruleset** for this sport is ``/res/LarpRules.rst``.  
 #.  The national **religion** is **Unitarian Universalism**.  
-#.  The national **political idealogy** is ***pragmatism***, as defined at ``/res/NationalIdealogy.rst``.  
+#.  The national **political idealogy** is **pragmatism**, as defined at ``/res/NationalIdealogy.rst``.  
 #.  The **primary** national **language** is **Theodian**, which is defined at ``/res/Theodian``.  
 
     #.  Until ``/var/bTheodianDone`` reads 'true', **English** will substitute for Theodian**.  
