@@ -23,7 +23,7 @@ B.  Contents
         #.  
 #.  All legislation should be interpreted per the item(s) headed by this item:
         
-        #.  All numbers are assumed to be in base-twelve, unless otherwise specified
+    #.  All numbers are assumed to be in base-twelve, unless otherwise specified
 
 C.  Footnotes
 ===========
