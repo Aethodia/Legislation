@@ -28,11 +28,9 @@ B.  Contents
             #.  Any number of content-sections, which are the legally binding part of the law.
             #.  'Footnotes', which contains any footnotes used in the law.  If the law has no footnotes, this section may be left out.
         #.  Before any of these sections, there should be metadata that indicates the version and dependencies of the law.  
-        #.  
 #.  All legislation should be interpreted per the item(s) headed by this item:
         
     #.  All numbers are assumed to be in base-twelve, unless otherwise specified
-    #.  
 
 C.  Footnotes
 ===========
