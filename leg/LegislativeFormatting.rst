@@ -20,7 +20,7 @@ B.  Contents
     #.  Have an internal formatting that complies with the specifications listed in items that are headed by this item:
         
         #.  Full compatibility with the reStructuredText format, as specified at ``http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html``
-        #.  The most important parts of a law should properly be emboldened [2]
+        #.  The most important parts of a law should properly be emboldened [2]_
 #.  All legislation should be interpreted per the item(s) headed by this item:
         
     #.  All numbers are assumed to be in base-twelve, unless otherwise specified
