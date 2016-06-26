@@ -22,7 +22,7 @@ B.  Contents
 #.  The national **sport** is **battlegaming**.  
 
     #.  The national **ruleset** for this sport is ``/res/LarpRules.rst``.  
-#.  The national **religion** is **Unitarian Universalism**.  
+#.  The national **religion** is **Unitarian Universalism**, as defined by the Unitarian Universalist Association which owns the UUA.org domain.  
 #.  The national **political idealogy** is **pragmatism**, as defined at ``/res/NationalIdealogy.rst``.  
 #.  The **primary** national **language** is **Theodian**, which is defined at ``/res/Theodian``.  
 
