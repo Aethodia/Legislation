@@ -16,15 +16,15 @@ A.  Abstract
 
 B.  Contents
 ===========
-#.  The national **flag** is the image at ``/res/NationalFlag.svg``.  
-#.  The national **coat of arms** is the image at ``/res/NationalCoA.svg``.  
-#.  The national **anthem** is the audio at ``/res/NationalAnthem.mid``.  
-#.  The national **sport** is **battlegaming**.  
+#.  The national **flag is** the image **at** ``/res/NationalFlag.svg``.  
+#.  The national **coat of arms is** the image **at** ``/res/NationalCoA.svg``.  
+#.  The national **anthem is** the audio **at** ``/res/NationalAnthem.mid``.  
+#.  The national **sport is battlegaming**.  
 
-    #.  The national **ruleset** for this sport is ``/res/LarpRules.rst``.  
-#.  The national **religion** is **Unitarian Universalism**, as defined by the Unitarian Universalist Association which owns the UUA.org domain.  
-#.  The national **political idealogy** is **pragmatism**, as defined at ``/res/NationalIdealogy.rst``.  
-#.  The **primary** national **language** is **Theodian**, which is defined at ``/res/Theodian``.  
+    #.  The national **ruleset** for this sport **is** ``/res/LarpRules.rst``.  
+#.  The national **religion is Unitarian Universalism**, as **defined by the UUA** (Unitarian Universalist Association) which owns the UUA.org domain.  
+#.  The national **political idealogy is pragmatism**, as defined at ``/res/NationalIdealogy.rst``.  
+#.  The **primary** national **language is Theodian**, which is defined at ``/res/Theodian``.  
 
-    #.  Until ``/var/bTheodianDone`` reads 'true', **English** will substitute for Theodian**.  
+    #.  Until ``/var/bTheodianDone`` reads 'true', **English will substitute for Theodian**.  
 #.  The **secondary** national **languages** are:  **English** (as defined in ``/res/English``).  
