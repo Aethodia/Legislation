@@ -1,6 +1,7 @@
 | Version:  
     ``1/0/0``
 | Depends:  
+    ``/res/English``
     ``/res/LarpRules.rst``
     ``/res/NationalAnthem.mid``
     ``/res/NationalCoA.svg``
@@ -22,8 +23,8 @@ B.  Contents
 
     #.  The national **ruleset** for this sport is ``/res/LarpRules.rst``.  
 #.  The national **religion** is **Unitarian Universalism**.  
-#.  The national **political idealogy** is defined at ``/res/NationalIdealogy.rst``.  
+#.  The national **political idealogy** is ***pragmatism***, as defined at ``/res/NationalIdealogy.rst``.  
 #.  The **primary** national **language** is **Theodian**, which is defined at ``/res/Theodian``.  
 
-    #.  Until ``/var/bTheodianDone`` reads 'true', **English will substitute for Theodian**.  
-#.  The **secondary** national **languages** are:  **English**.  
+    #.  Until ``/var/bTheodianDone`` reads 'true', **English** will substitute for Theodian**.  
+#.  The **secondary** national **languages** are:  **English** (as defined in ``/res/English``).  
