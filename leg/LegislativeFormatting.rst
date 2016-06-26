@@ -10,6 +10,7 @@ A.  Abstract
 B.  Contents
 ===========
 #.  All legislation should adhere to the item(s) headed by this item:
+    
     #.  Have filenames that comply with the specifications listed in items that are headed by this item:
         
         #.  Capitalize each word
