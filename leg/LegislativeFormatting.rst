@@ -21,6 +21,10 @@ B.  Contents
         
         #.  Full compatibility with the reStructuredText format, as specified at ``http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html``
         #.  The most important parts of a law should properly be emboldened [2]_
+        #.  Outside of the 'Footnotes' section itself, footnotes do not need to appear in order -- although drafters are encouraged to place them so
+        #.  Each law should consist of, at a minimum, the following sections:  
+            
+            #.  
 #.  All legislation should be interpreted per the item(s) headed by this item:
         
     #.  All numbers are assumed to be in base-twelve, unless otherwise specified
