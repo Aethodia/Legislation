@@ -19,12 +19,16 @@ B.  Contents
         #.  Have 20 or fewer characters [1]_, not counting '.rst'
     #.  Have an internal formatting that complies with the specifications listed in items that are headed by this item:
         
-        #.  Full compatibility with the reStructuredText format, as specified at ``http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html``
-        #.  The most important parts of a law should properly be emboldened [2]_
-        #.  Outside of the 'Footnotes' section itself, footnotes do not need to appear in order -- although drafters are encouraged to place them so
+        #.  Full compatibility with the reStructuredText format, as specified at ``http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html``.
+        #.  The most important parts of a law should properly be emboldened [2]_.
+        #.  Outside of the 'Footnotes' section itself, footnotes do not need to appear in order -- although drafters are encouraged to place them so.
         #.  Each law should consist of, at a minimum, the following sections:  
             
-            #.  
+            #.  'Abstract', which summarizes the law.
+            #.  Any number of content-sections, which are the legally binding part of the law.
+            #.  'Footnotes', which contains any footnotes used in the law.  If the law has no footnotes, this section may be left out.
+        #.  Before any of these sections, there should be metadata that indicates the version and dependencies of the law.  
+        #.  
 #.  All legislation should be interpreted per the item(s) headed by this item:
         
     #.  All numbers are assumed to be in base-twelve, unless otherwise specified
@@ -33,4 +37,4 @@ B.  Contents
 C.  Footnotes
 ===========
 .. [1] The number of characters here is arbitrary.
-.. [2] This is intended to make legislation easier to speed-read
+.. [2] This is intended to make legislation easier to speed-read.
