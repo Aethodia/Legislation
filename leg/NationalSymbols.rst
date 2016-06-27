@@ -27,4 +27,4 @@ B.  Contents
 #.  The **primary** national **language is Theodian**, which is **defined in** ``/res/Theodian.rst``.  
 
     #.  Until ``/var/bTheodianDone`` reads 'true', **English** (as **defined in** ``/res/English.rst``) **will substitute for Theodian**.  
-#.  The **secondary** national **languages** are:  **English** (as **defined in** ``/res/English.rst``).  
+#.  The **secondary** national **languages are**:  **English** (as **defined in** ``/res/English.rst``).  
