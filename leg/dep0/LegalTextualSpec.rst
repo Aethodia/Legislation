@@ -2,6 +2,7 @@
     ``0/0/0``
 | Depends:  
     ``/leg/NationalSymbols.rst``
+    ``/leg/TODO``
     ``http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html``
 
 A.  Abstract
@@ -75,8 +76,8 @@ B.  Contents
                 
 #.  Legislation may only depend upon files in ``/leg`` and ``/res``
 #.  Files in ``/res`` may not depend upon anything [3]_.
-#.  Any law which depends upon at least one other law, must be placed into a subdirectory, entitled 'dep', of the directory of that/those depended-upon law(s) which is/are located at the deepest directory of all depended-upon laws.
-#.  Variables intended for ``/var`` must be placed into a subdirectory of ``/var``, and that subdirectory must have a name equivalent to the name of the academic discipline of the jury which has the right to modify that variable.
+#.  Any law which depends upon at least one other law, must be placed into a subdirectory, entitled 'dep#', of the directory of that/those depended-upon law(s) which is/are located at the deepest directory of all depended-upon laws, and where the # in 'dep#' represents the number of directories with the name 'dep'* (where '*' is treated as a wildcard) which are superdirectories of the 'dep'* directory in question. [6]_.
+#.  Variables intended for ``/var`` must be placed into a subdirectory of ``/var``, and that subdirectory must have a name equivalent to the name of the academic discipline of the jury which has the right to modify that variable [6]_.
 #.  Variables must be prefixed with a shorthand for their type, as specified by this section's subsection(s).
 
 C.  Footnotes
@@ -86,3 +87,4 @@ C.  Footnotes
 .. [3]  This is because files in ``/res`` are intended to allow nomocracy to expand beyond mere text, but are not intended to provide a workaround for standard legislative procedure.
 .. [4]  A suggested way to go about this, is to embolden such that, when only the emboldened text is read, the gist of the law can be gained, even if the emboldened text is, by itself, not entirely grammatical.
 .. [5]  As a quick fyi, this means that all numbers are base-twelve.
+.. [6]  This is intended to reduce clutter within directories.
