@@ -48,15 +48,18 @@ B.  Contents
                 #.  It may not be longer than 400 words [1]_.
                 #.  This section is not legally binding.
                 
-            #.  The second section should be entitled 'Contents', and should be compliant with this section's subsection(s).
-                
-                #.  All subsections of this section are legally binding.  
-                
-            #.  The third section should be entitled 'Footnotes', and should be compliant with this section's subsection(s).
+            #.  The last section should be entitled 'Footnotes', and should be compliant with this section's subsection(s).
             
                 #.  This section contains the contents of the various footnotes referenced throughout a law.  
                 #.  This section may be left out if the law has no footnotes.  
                 #.  No subsection of this section is legally binding.
+                
+            #.  Any intermediate sections should be compliant with this section's subsection(s).
+                
+                #.  Such sections should have a title no longer than 4 words.
+                #.  In laws with only one such section, that section should be entitled 'Contents'.
+                #.  Such sections are not themselves legally binding.
+                #.  All subsections of such sections are legally binding.  
                 
         #.  The contents of each law must additionally meet the formatting-requirements specified in this section's subsections.
         
