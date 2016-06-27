@@ -12,7 +12,7 @@ B.  Contents
 ===========
 #.  All legislation should be interpreted per this section's subsection(s).
 
-    #.  Interpretation should proceed according to the current de facto primary language [5]_, as determined by ``/leg/NationalSymbols.rst``.
+    #.  Interpretation should proceed according to the current de facto primary language [5]_, as specified by ``/leg/NationalSymbols.rst``.
     
 #.  All legislation must be written in compliance with this section's subsection(s).
 
