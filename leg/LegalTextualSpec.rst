@@ -41,18 +41,18 @@ B.  Contents
                 
         #.  Post-metadata, each law may only contain sections that match the requirements of this section's subsection(s).
         
-            #.  Abstract
+            #.  The first section should be entitled 'Abstract', and should be compliant with this section's subsection(s).
             
                 #.  This section should summarize what the law does.  
                 #.  It may also mention the law's purpose, and previous work in the area.  
                 #.  It may not be longer than 400 words [1]_.
                 #.  This section is not legally binding.
                 
-            #.  Contents
+            #.  The second section should be entitled 'Contents', and should be compliant with this section's subsection(s).
                 
                 #.  All subsections of this section are legally binding.  
                 
-            #.  Footnotes
+            #.  The third section should be entitled 'Footnotes', and should be compliant with this section's subsection(s).
             
                 #.  This section contains the contents of the various footnotes referenced throughout a law.  
                 #.  This section may be left out if the law has no footnotes.  
