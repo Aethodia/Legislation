@@ -16,9 +16,9 @@ A.  Abstract
 
 B.  Contents
 ===========
-#.  The official **long name is "The Theodian Directorate"**.
+#.  The official **long name is** "**The Theodian Directorate**".
 
-    #.  The official **short name is "Theodia"** [1]_.
+    #.  The official **short name is** "**Theodia**" [1]_.
     
 #.  The national **flag is** the image **at** ``/res/NationalFlag.svg``.  
 #.  The national **coat of arms is** the image **at** ``/res/NationalCoA.svg``.  
