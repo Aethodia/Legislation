@@ -12,7 +12,7 @@
 
 A.  Abstract
 ===========
-#.  This file **denotes all national symbols** and such.  
+#.  This file **denotes** all de jure **national symbols** and such.  
 
 B.  Contents
 ===========
@@ -33,7 +33,7 @@ B.  Contents
 
     #.  Until ``/var/Linguistics/bTheodianDone`` reads 'true', **English** (as **defined in** ``/res/English.rst``) **will substitute for Theodian**.  
 #.  The **secondary** national **languages are**:  **English** (as **defined in** ``/res/English.rst``).  
-#.  The de jure national **type is** "**Federal Directorial Technocracy**".
+#.  The national **type is** "**Federal Directorial Technocracy**".
 
 C.  Footnotes
 ===========
