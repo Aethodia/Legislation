@@ -64,8 +64,7 @@ B.  Contents
         #.  The contents of each law must additionally meet the formatting-requirements specified in this section's subsections.
         
             #.  Full compatibility with the reStructuredText format, as specified at ``http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html``.
-            #.  The most important parts of a law should properly be emboldened [2]_ [4]_, although emboldening within footnotes is optional, except where otherwise stated.  
-
+            #.  It is encouraged to embolden the most important parts of a law [2]_ [4]_, although emboldening within footnotes is unnecessary, except where otherwise stated.  
             #.  Outside of the 'Footnotes' section itself, footnotes do not need to appear in order -- although drafters are encouraged to place them so, especially in shorter laws.
                     
             #.  Metadata must be formatted in a specific way, as defined by this section's subsection(s).
