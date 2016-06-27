@@ -34,6 +34,7 @@ B.  Contents
             #.  Depends
             
                 #.  (TODO)
+                #.  Legislation is not considered to depend upon this law simply because it is compliant with the specifications of this law.
                 
             #.  References
             
