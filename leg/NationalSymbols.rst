@@ -12,11 +12,11 @@
 
 A.  Abstract
 ===========
-#.  This file **denotes all national symbols** and such.  
+#.  This file **denotes all national symbols** and such of the country where this law is legally active.  
 
 B.  Contents
 ===========
-#.  The official **long name** of the country where this law is legally active **is "The Theodian Directorate"**.
+#.  The official **long name is "The Theodian Directorate"**.
 
     #.  The official **short name is "Theodia"** [1]_.
     
