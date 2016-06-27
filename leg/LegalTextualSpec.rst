@@ -61,9 +61,7 @@ B.  Contents
         #.  The contents of each law must additionally meet the formatting-requirements specified in this section's subsections.
         
             #.  Full compatibility with the reStructuredText format, as specified at ``http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html``.
-            #.  The most important parts of a law should properly be emboldened [2]_, although emboldening within footnotes is optional, except where otherwise stated.  
-            
-                #.  A suggested way to go about this, is to embolden such that, when only the emboldened text is read, the gist of the law can be gained, even if the emboldened text is, by itself, not entirely grammatical.
+            #.  The most important parts of a law should properly be emboldened [2]_ [4]_, although emboldening within footnotes is optional, except where otherwise stated.  
 
             #.  Outside of the 'Footnotes' section itself, footnotes do not need to appear in order -- although drafters are encouraged to place them so.
                     
@@ -79,3 +77,4 @@ C.  Footnotes
 .. [1]  This number is arbitrary.
 .. [2]  This is intended to make legislation easier to speed-read.
 .. [3]  This is because files in ``/res`` are intended to allow nomocracy to expand beyond mere text, but are not intended to provide a workaround for standard legislative procedure.
+.. [4]  A suggested way to go about this, is to embolden such that, when only the emboldened text is read, the gist of the law can be gained, even if the emboldened text is, by itself, not entirely grammatical.
