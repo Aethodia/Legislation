@@ -46,16 +46,17 @@ B.  Contents
                 #.  This section should summarize what the law does.  
                 #.  It may also mention the law's purpose, and previous work in the area.  
                 #.  It may not be longer than 400 words [1]_.
+                #.  This section is not legally binding.
                 
             #.  Contents
                 
                 #.  All subsections of this section are legally binding.  
-                #.  Any footnotes first referenced from this section are legally binding.
                 
             #.  Footnotes
             
                 #.  This section contains the contents of the various footnotes referenced throughout a law.  
                 #.  This section may be left out if the law has no footnotes.  
+                #.  No subsection of this section is legally binding.
                 
         #.  The contents of each law must additionally meet the formatting-requirements specified in this section's subsections.
         
