@@ -76,7 +76,8 @@ B.  Contents
 #.  Legislation may only depend upon files in ``/leg`` and ``/res``
 #.  Files in ``/res`` may not depend upon anything [3]_.
 #.  Any law which depends upon at least one other law, must be placed into a subdirectory, entitled 'dep', of the directory of that/those depended-upon law(s) which is/are located at the deepest directory of all depended-upon laws.
-#.  Any variables 
+#.  Variables intended for ``/var`` must be placed into a subdirectory of ``/var``, and that subdirectory must have a name equivalent to the name of the academic discipline of the jury which has the right to modify that variable.
+#.  Variables must be prefixed with a shorthand for their type, as specified by this section's subsection(s).
 
 C.  Footnotes
 ===========
