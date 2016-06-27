@@ -5,7 +5,7 @@
 
 A.  Abstract
 ===========
-#.  This file **denotes** the **specifications** to which a prospective piece of **legislation must adhere to** in order for **to be legally added** to this repository.
+#.  This file **denotes** the **specifications** which a prospective piece of **legislation must adhere to** in order for **to be legally added** to this repository.
 
 B.  Contents
 ===========
