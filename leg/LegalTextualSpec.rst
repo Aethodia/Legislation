@@ -73,7 +73,7 @@ B.  Contents
                 
 #.  Legislation may only depend upon files in ``/leg`` and ``/res``
 #.  Files in ``/res`` may not depend upon anything [3]_.
-#.  Laws which depend upon another law, must be placed into a subdirectory, entitled 'dep', of the directory of that/those depended-upon law(s) which is/are located at the deepest directory of all depended-upon laws.
+#.  Any law which depends upon at least one other law, must be placed into a subdirectory, entitled 'dep', of the directory of that/those depended-upon law(s) which is/are located at the deepest directory of all depended-upon laws.
 
 C.  Footnotes
 ===========
