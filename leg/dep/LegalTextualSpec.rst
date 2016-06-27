@@ -2,6 +2,7 @@
     ``0/0/0``
 | Depends:  
     ``http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html``
+    ``/leg/NationalSymbols.rst``
 
 A.  Abstract
 ===========
@@ -11,7 +12,7 @@ B.  Contents
 ===========
 #.  All legislation should be interpreted per this section's subsection(s).
 
-    #.  All numbers are assumed to be in base-twelve, unless otherwise specified.
+    #.  Interpretation should proceed according to the current de facto primary language [5]_.
     
 #.  All legislation must be written in compliance with this section's subsection(s).
 
@@ -34,7 +35,7 @@ B.  Contents
             #.  Depends
             
                 #.  (TODO)
-                #.  Legislation is not considered to depend upon this law simply because it is compliant with the specifications of this law [5]_.
+                #.  Legislation is not considered to depend upon this law simply because it is compliant with the specifications of this law.
                 
             #.  References
             
@@ -75,6 +76,7 @@ B.  Contents
 #.  Legislation may only depend upon files in ``/leg`` and ``/res``
 #.  Files in ``/res`` may not depend upon anything [3]_.
 #.  Any law which depends upon at least one other law, must be placed into a subdirectory, entitled 'dep', of the directory of that/those depended-upon law(s) which is/are located at the deepest directory of all depended-upon laws.
+#.  Any variables 
 
 C.  Footnotes
 ===========
@@ -82,4 +84,4 @@ C.  Footnotes
 .. [2]  This is intended to make legislation easier to speed-read.
 .. [3]  This is because files in ``/res`` are intended to allow nomocracy to expand beyond mere text, but are not intended to provide a workaround for standard legislative procedure.
 .. [4]  A suggested way to go about this, is to embolden such that, when only the emboldened text is read, the gist of the law can be gained, even if the emboldened text is, by itself, not entirely grammatical.
-.. [5]  If legislation did, then there would be legal grounds for putting ``/Kernel.rst`` at ``/leg/dep/Kernel.rst``, which would break Theodian legislation, as there would be nothing to bootstrap this law in the first place.  Although ``/ReadMe.md`` could be updated to reflect this, there would still be the uncomfortable reality that ``/leg`` would contain only ``dep`` and this law.  
+.. [5]  As a quick fyi, this means that all numbers are base-twelve.
