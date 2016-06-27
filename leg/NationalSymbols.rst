@@ -28,3 +28,4 @@ B.  Contents
 
     #.  Until ``/var/Linguistics/bTheodianDone`` reads 'true', **English** (as **defined in** ``/res/English.rst``) **will substitute for Theodian**.  
 #.  The **secondary** national **languages are**:  **English** (as **defined in** ``/res/English.rst``).  
+#.  The de jure national **type is "Federal Directorial Technocracy"**.
