@@ -13,7 +13,7 @@ B.  Contents
 
     #.  All numbers are assumed to be in base-twelve, unless otherwise specified.
     
-#.  All legislation must be written in adherence to this section's subsection(s).
+#.  All legislation must be written in adherence with this section's subsection(s).
 
     #.  Have filenames that comply with the specifications listed in this section's subsection(s).
     
