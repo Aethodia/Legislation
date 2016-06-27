@@ -34,7 +34,7 @@ B.  Contents
             #.  Depends
             
                 #.  (TODO)
-                #.  Legislation is not considered to depend upon this law simply because it is compliant with the specifications of this law.
+                #.  Legislation is not considered to depend upon this law simply because it is compliant with the specifications of this law [5].
                 
             #.  References
             
@@ -82,3 +82,4 @@ C.  Footnotes
 .. [2]  This is intended to make legislation easier to speed-read.
 .. [3]  This is because files in ``/res`` are intended to allow nomocracy to expand beyond mere text, but are not intended to provide a workaround for standard legislative procedure.
 .. [4]  A suggested way to go about this, is to embolden such that, when only the emboldened text is read, the gist of the law can be gained, even if the emboldened text is, by itself, not entirely grammatical.
+.. [5]  If legislation did, then there would be legal grounds for putting ``/Kernel.rst`` at ``/leg/dep/Kernel.rst``, which would break Theodian legislation, as there would be nothing to bootstrap this law in the first place.
