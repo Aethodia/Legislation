@@ -12,7 +12,7 @@
 
 A.  Abstract
 ===========
-#.  This file **denotes all national symbols** and such of the country where this law is legally active.  
+#.  This file **denotes all national symbols** and such.  
 
 B.  Contents
 ===========
