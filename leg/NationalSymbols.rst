@@ -16,7 +16,7 @@ A.  Abstract
 
 B.  Contents
 ===========
-#.  The official **long name is** "**The Theodian Directorate**".
+#.  The official **long name is** "**The Technocratic Republic of Theodia**".
 
     #.  The official **short name is** "**Theodia**" [1]_.
     
