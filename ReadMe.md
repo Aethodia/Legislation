@@ -8,7 +8,7 @@ This readme is for **release v1/0/0**.
 The items in either the same directory as, or any sub-directory of, this ReadMe, recursively speaking, apart from `.` and 
 `..`, and apart from `./ReadMe.md` and `./License.txt`, collectively **comprise the entirety of Theodian legislation**.  
 
-Everything in this repository (with the exception of things in `./res`) are **encoded in UTF-8** (8-bit Unicode Text-Format) and use **UNIX line-endings**.  
+Everything in this repository (with the exception of things in `./res`) are **encoded in UTF-8** (8-byte Unicode Text-Format) and use **UNIX line-endings**.  
 
 # Where to start
 
