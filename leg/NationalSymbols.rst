@@ -1,12 +1,12 @@
 | Version:  
-    ``1/0/0``
+    ``1/1/0``
 | Depends:  
+    ``/leg/TheoreticalPolicyRequisites.rst``
     ``/res/English``
     ``/res/LarpRules.rst``
     ``/res/NationalAnthem.mid``
     ``/res/NationalCoA.svg``
     ``/res/NationalFlag.svg``
-    ``/res/NationalIdealogy.rst``
     ``/res/Theodian``
     ``/var/bTheodianDone``
 
@@ -27,12 +27,17 @@ B.  Contents
 
     #.  The national **ruleset** for this sport **is** ``/res/LarpRules.rst``.  
     
-#.  The national **religion is Unitarian Universalism**, as **defined by** the **UUA** (Unitarian Universalist Association) which owns the UUA.org domain.  
-#.  The national **political idealogy is** '**Pragmatism**', as **defined in** ``/res/NationalIdealogy.rst``.  
-#.  The **primary** national **language is Theodian**, which is **defined in** ``/res/Theodian.rst``.  
+#.  The national **religion is Unitarian Universalism without** the **dogma**.
 
-    #.  Until ``/var/Linguistics/bTheodianDone`` reads 'true', **English** (as **defined in** ``/res/English.rst``) **will substitute for Theodian**.  
-#.  The **secondary** national **languages are**:  **English** (as **defined in** ``/res/English.rst``).  
+    #.  Theodian UU **does not have** the **Seven Principles or** the **political agenda** of American UU.
+    #.  Theodian UU **does not focus on** the **Six Sources** of American UU.
+
+#.  The national **political idealogy is** largely defined in ``/leg/TheoreticalPolicyRequisites.rst``, and is a variety of **Radical Centrism** tempered **by Realpolitik**.
+#.  The **primary** national **language is Theodian**, which is defined in ``/res/Theodian.rst``.  
+
+    #.  Until ``/var/Linguistics/bTheodianDone`` reads 'true', **English** (as defined in ``/res/English.rst``) **will substitute for Theodian**.  
+
+#.  The **secondary** national **languages are**:  **English** (as defined in ``/res/English.rst``).  
 #.  The national **type is** "**Federal Directorial Technocracy**".
 
 C.  Footnotes
