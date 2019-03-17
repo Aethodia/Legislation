@@ -4,6 +4,7 @@
     ``/leg/NationalSymbols.rst``
     ``/leg/TODO``
     ``http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html``
+| References:
 
 A.  Abstract
 ===========
