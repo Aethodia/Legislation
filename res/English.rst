@@ -1,1 +1,1 @@
-
+There is no singular complete specification for English, and Theodia is not prepared to create one.  As such, English legislation is to be interpreted as best as possible using the definitions provided in the documents and the state of the language known to have existed at the point in time that each piece of legislation was drafted.
