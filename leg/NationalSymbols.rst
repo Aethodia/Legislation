@@ -43,4 +43,4 @@ B.  Contents
 
 C.  Footnotes
 ===========
-.. [1]  This is derived from Old English 'þēod' and the Latinate suffix '-ia'.
+.. [1]  This is derived from Old English '*þēod*' and the Latinate suffix '-ia'.
