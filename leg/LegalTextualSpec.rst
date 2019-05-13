@@ -85,4 +85,3 @@ C.  Footnotes
 .. [3]  This is because files in ``/res`` are intended to allow nomocracy to expand beyond mere text, but are not intended to provide a workaround for standard legislative procedure.
 .. [4]  A suggested way to go about this, is to embolden such that, when only the emboldened text is read, the gist of the law can be gained, even if the emboldened text is, by itself, not entirely grammatical.
 .. [5]  As a quick fyi, this means that all numbers are base-twelve.
-.. [6]  This is intended to reduce clutter within directories.
