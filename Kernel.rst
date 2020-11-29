@@ -26,7 +26,7 @@ Notes
 Bootstrap
 ------------------------------------------------------------
 
-- All **non-kernel legislation** is located in ``./Legislation`` or thence, recursively.
+- All **non-kernel legislation** is located in ``./Code`` or thence, recursively.
 
 - This non-kernel legislation **has the legal power to do anything**, apart from contradict this kernel;  and this includes the power to restrict what other legislation can legally do.
 
