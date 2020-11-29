@@ -17,6 +17,8 @@ Contents
 
 - A legally-active file in this repository is a "Law", and its legally-binding subcomponents are "provisions".
 
+- Wherever not explicitly stated, legal provisions are assumed to use the binding-level that ``DevolutionSchema`` sets as default.
+
 Footnotes
 ============================================================
 
