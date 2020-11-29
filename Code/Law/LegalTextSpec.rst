@@ -96,7 +96,7 @@ Formatting
 
     - …composed of '-' for third-level headers.
 
-    - …denoted by 50 characters.
+    - …denoted by 50 [1]_ characters.
 
   - …every complete element [5]_ should be separated from any others by a newline.
 
