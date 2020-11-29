@@ -29,6 +29,6 @@ LegalBindings
 
   #. Never (Tag: ``Binding:N``) (It is only applicable to the national government and in its direct holdings.)
 
-- The default binding (where one is not explicitly stated) is "Opt-out".
+- The default binding (where one is not explicitly stated) is ``Binding:O``.
 
 - A law can set bindings on itself and its provisions by adding a binding tag (see above) where desired.
