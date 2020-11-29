@@ -11,7 +11,7 @@ Contents
 
 - Every law must…
 
-    - …be interpreted per the official legal language [5]_.
+  - …be interpreted per the official legal language [5]_.
 
 Footnotes
 ============================================================

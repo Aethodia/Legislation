@@ -11,7 +11,7 @@ Contents
 
 - The official **long name is** "**The Technocratic Republic of Theodia**".
 
-    - The official **short name is** "**Theodia**" [1]_.
+  - The official **short name is** "**Theodia**" [1]_.
 
 - The national **type is** "**Federal Directorial Technocracy**".
 
@@ -21,7 +21,7 @@ Contents
 
 - The national **sport is battlegaming**.
 
-    - The national **ruleset** for this sport **is FiodiLARP** (``/Resources/LarpRules.rst``).
+  - The national **ruleset** for this sport **is FiodiLARP** (``/Resources/LarpRules.rst``).
 
 - The national **anthem is** the audio **at** ``/Resources/NationalAnthem.mid``.
 
@@ -33,7 +33,7 @@ Contents
 
 - The **primary** national **language is Theodian in the Theodic alphabet**.
 
-    - **Theodian English in Roman is** the **acting primary language** until Theodian is complete;  this line will be removed from legislation when that time comes.
+  - **Theodian English in Roman is** the **acting primary language** until Theodian is complete;  this line will be removed from legislation when that time comes.
 
 Footnotes
 ============================================================

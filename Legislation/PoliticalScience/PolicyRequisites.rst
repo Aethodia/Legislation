@@ -11,55 +11,55 @@ Contents
 
 - Preface
 
-    - **All policy is subject to** the same primary and secondary **ablatives**, **locatives**, and **datives** [1]_.
+  - **All policy is subject to** the same primary and secondary **ablatives**, **locatives**, and **datives** [1]_.
 
-    - **Ablatives are justifications**.
+  - **Ablatives are justifications**.
 
-    - **Locatives are structure**.
+  - **Locatives are structure**.
 
-    - **Datives are goals**.
+  - **Datives are goals**.
 
-    - **Primary** ablatives, locatives, and datives **may never be counteracted**.
+  - **Primary** ablatives, locatives, and datives **may never be counteracted**.
 
-    - All **policies must meet at at least one** ablative, locative, and dative.
+  - All **policies must meet at at least one** ablative, locative, and dative.
 
 - Ablatives
 
-    - Primary
+  - Primary
 
-        - The **policy must be realistic**;  it must be fully within the power of the government to enact and enforce.
+    - The **policy must be realistic**;  it must be fully within the power of the government to enact and enforce.
 
-    - Secondary
+  - Secondary
 
-        - The **policy should be empirically justified**.
+    - The **policy should be empirically justified**.
 
-        - The **policy should be rationally justified**.
+    - The **policy should be rationally justified**.
 
 - Locatives
 
-    - Primary
+  - Primary
 
-        - The policy must consist only of the policy:  **anything extraneous** to the policy's stated intentions **should not be included**.
+    - The policy must consist only of the policy:  **anything extraneous** to the policy's stated intentions **should not be included**.
 
-    - Secondary
+  - Secondary
 
-        - The **policy should be elegant**:  as simple as possible while still achieving its desired effect(s).
+    - The **policy should be elegant**:  as simple as possible while still achieving its desired effect(s).
 
 - Datives
 
-    - Primary
+  - Primary
 
-        - **Ensure** the continued **existence of** this **society**.
+    - **Ensure** the continued **existence of** this **society**.
 
-        - **Improve** all **citizens'** quality of **life**.
+    - **Improve** all **citizens'** quality of **life**.
 
-    - Secondary
+  - Secondary
 
-        - Optimize and **improve** anything and **everything**.
+    - Optimize and **improve** anything and **everything**.
 
-        - **Advance** scientific **understanding**.
+    - **Advance** scientific **understanding**.
 
-    - For all datives, the **long-term** should be prioritized **over** the **short-term**.
+  - For all datives, the **long-term** should be prioritized **over** the **short-term**.
 
 Footnotes
 ============================================================

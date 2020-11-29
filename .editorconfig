@@ -6,7 +6,7 @@ root=true
 
 ## Tabulation
 indent_style = space
-indent_size  = 4
+indent_size  = 2 ## Required by reStructuredText
 
 ## Lines
 end_of_line = lf

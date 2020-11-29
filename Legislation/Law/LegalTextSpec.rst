@@ -14,21 +14,21 @@ Filesystem
 
 - Every law must…
 
-    - …be contained within a single file.
+  - …be contained within a single file.
 
-    - …have a filename that…
+  - …have a filename that…
 
-        - …adequately describes its contents.
+    - …adequately describes its contents.
 
-        - …each of whose words are capitalized [6]_.
+    - …each of whose words are capitalized [6]_.
 
-        - …has no spaces.
+    - …has no spaces.
 
-        - …has '.rst' at its end.
+    - …has '.rst' at its end.
 
-        - …has 30 [1]_ or fewer characters (not counting '.rst').
+    - …has 30 [1]_ or fewer characters (not counting '.rst').
 
-        - …is unique among all other laws [7]_.
+    - …is unique among all other laws [7]_.
 
 - When a law cites another law, it is enough to give the law's [unique] filename (without '.rst').
 
@@ -37,76 +37,76 @@ Structure
 
 - Every law must…
 
-    - …start with a level-one header, whose text should be identical to its filename withou '.rst'.
+  - …start with a level-one header, whose text should be identical to its filename withou '.rst'.
 
-    - …have 3 level-two sections:
+  - …have 3 level-two sections:
 
-        - The first…
+    - The first…
 
-            - …must be entitled "Abstract".
+      - …must be entitled "Abstract".
 
-            - …should summarize what the law does.
+      - …should summarize what the law does.
 
-            - …may mention the law's purpose, and previous work in the area.
+      - …may mention the law's purpose, and previous work in the area.
 
-            - …may not be longer than 400 [1]_ words.
+      - …may not be longer than 400 [1]_ words.
 
-            - …is not legally binding.
+      - …is not legally binding.
 
-        - The second…
+    - The second…
 
-            - …must be entitled "Contents".
+      - …must be entitled "Contents".
 
-            - …is legally binding.
+      - …is legally binding.
 
-            - …may have level-three subsections (other level-two sections may not).
+      - …may have level-three subsections (other level-two sections may not).
 
-            - …must consist only of ordered or unordered lists.
+      - …must consist only of ordered or unordered lists.
 
-        - The third…
+    - The third…
 
-            - …must be entitled "Footnotes".
+      - …must be entitled "Footnotes".
 
-            - …is where all a law's footnotes are to be located.
+      - …is where all a law's footnotes are to be located.
 
-            - …may be left out if the law has no footnotes.
+      - …may be left out if the law has no footnotes.
 
-            - …is primarily intended to provide sources, thoughts, reasonings, interpretation guides, etc for provisions within a law.
+      - …is primarily intended to provide sources, thoughts, reasonings, interpretation guides, etc for provisions within a law.
 
-            - …is not itself legally binding, although it can assist with the interpretation of an ambiguous law.
+      - …is not itself legally binding, although it can assist with the interpretation of an ambiguous law.
 
-            - …should be sorted according to numerical order, from smallest-to-largest.
+      - …should be sorted according to numerical order, from smallest-to-largest.
 
 Formatting
 ------------------------------------------------------------
 
 - Every law must be formatted so that…
 
-    - …it is fully compliant with the reStructuredText specification at ``http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html``.
+  - …it is fully compliant with the reStructuredText specification at ``http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html``.
 
-    - …any references it makes to other files in this repository are formatted with code tags, like so:  ``Example``.
+  - …any references it makes to other files in this repository are formatted with code tags, like so:  ``Example``.
 
-    - …its section headers are…
+  - …its section headers are…
 
-        - …composed of '#' for first-level headers.
+    - …composed of '#' for first-level headers.
 
-        - …composed of '=' for second-level headers.
+    - …composed of '=' for second-level headers.
 
-        - …composed of '-' for third-level headers.
+    - …composed of '-' for third-level headers.
 
-        - …denoted by 50 characters.
+    - …denoted by 50 characters.
 
-    - …every complete element [8]_ should be separated from any others by a newline.
+  - …every complete element [8]_ should be separated from any others by a newline.
 
-    - …every legal provision is its own item in an ordered or unordered list.
+  - …every legal provision is its own item in an ordered or unordered list.
 
 - It is encouraged (but not required) to…
 
-    - …embolden the most important parts of each law [2]_ [3]_.
+  - …embolden the most important parts of each law [2]_ [3]_.
 
-    - …have all footnotes in each law occur in numerical order, from smallest-to-largest.
+  - …have all footnotes in each law occur in numerical order, from smallest-to-largest.
 
-    - …ensure that each law's footnote indices are complete integer-incremental series [4]_.
+  - …ensure that each law's footnote indices are complete integer-incremental series [4]_.
 
 Footnotes
 ============================================================
