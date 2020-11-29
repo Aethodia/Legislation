@@ -85,6 +85,8 @@ B.  Contents
 
         #.  …every complete element [8]_ should be separated from any others by a newline.
 
+        #.  …every legal provision is its own item in an ordered or unordered list.
+
 #.  It is encouraged (but not required) to…
 
     #.  …embolden the most important parts of each law [2]_ [3]_.
