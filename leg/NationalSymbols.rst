@@ -1,5 +1,3 @@
-| Version:  
-    ``1/1/0``
 | Depends:  
     ``/leg/TheoreticalPolicyRequisites.rst``
     ``/res/English``
@@ -9,7 +7,6 @@
     ``/res/NationalFlag.svg``
     ``/res/Theodian``
     ``/var/bTheodianDone``
-| References:
 
 A.  Abstract
 ===========

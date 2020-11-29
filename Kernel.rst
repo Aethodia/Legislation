@@ -1,5 +1,3 @@
-Version:  ``1/0/0``
-
 A.  Abstract
 ================
 #.  This is the **official legislative kernel** of Theodia.  The purpose of this document is primarily **to legally bootstrap** the country's legislation;  but it is also to ensure that the founder can continue work on the country in the face of overwhelmingly inactive citizens, something that has thus far endemically plagued the country;  or in the event that some sort of legal coup is staged.  

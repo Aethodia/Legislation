@@ -1,8 +1,3 @@
-| Version:  
-    ``1/0/0``
-| Depends:
-| References:
-
 A.  Abstract
 ============
 #.  This file defines the theoretical **requisites of all** government **policy**.  
