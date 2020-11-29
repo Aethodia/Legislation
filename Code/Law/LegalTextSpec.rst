@@ -20,15 +20,15 @@ Filesystem
 
     - …adequately describes its contents.
 
-    - …each of whose words are capitalized[6]_.
+    - …each of whose words are capitalized [6]_.
 
     - …has no spaces.
 
     - …has '.rst' at its end.
 
-    - …has 30[1]_ or fewer characters (not counting '.rst').
+    - …has 30 [1]_ or fewer characters (not counting '.rst').
 
-    - …is unique among all other laws[7]_.
+    - …is unique among all other laws. [7]_
 
 - When a law cites another law…
 
@@ -57,7 +57,7 @@ Structure
 
       - …may mention the law's purpose, and previous work in the area.
 
-      - …may not be longer than 400[1]_ words.
+      - …may not be longer than 400 [1]_ words.
 
     - The second…
 
@@ -98,15 +98,15 @@ Formatting
 
     - …denoted by 50 characters.
 
-  - …every complete element[5]_ should be separated from any others by a newline.
+  - …every complete element [5]_ should be separated from any others by a newline.
 
   - …every legal provision is its own item in an ordered or unordered list.
 
 - It is encouraged (but not required) to…
 
-  - …embolden the most important parts of each law.[2]_[3]_
+  - …embolden the most important parts of each law. [2]_ [3]_
 
-  - …ensure that each law's footnote indices are complete integer-incremental series.[4]_
+  - …ensure that each law's footnote indices are complete integer-incremental series. [4]_
 
 Footnotes
 ============================================================

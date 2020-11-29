@@ -11,7 +11,7 @@ Contents
 
 - The official **long name is** "**The Technocratic Republic of Theodia**".
 
-  - The official **short name is** "**Theodia**"[1]_.
+  - The official **short name is** "**Theodia**" [1]_.
 
 - The national **type is** "**Federal Directorial Technocracy**".
 

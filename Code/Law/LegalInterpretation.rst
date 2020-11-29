@@ -9,11 +9,11 @@ This file defines **how to interpret laws**.
 Contents
 ============================================================
 
-- Every law must be interpreted per the official legal language.[2]_
+- Every law must be interpreted per the official legal language. [2]_
 
-- Only the 'Contents'[1]_ section of a law is legally binding.
+- Only the 'Contents' [1]_ section of a law is legally binding.
 
-- The 'Footnotes'[1]_ section, while not itself legally binding, can serve as a guide when interpreting something that *is*.
+- The 'Footnotes' [1]_ section, while not itself legally binding, can serve as a guide when interpreting something that *is*.
 
 Footnotes
 ============================================================
