@@ -108,6 +108,10 @@ Formatting
 
   - …ensure that each law's footnote indices are complete integer-incremental series. [4]_
 
+- It does not matter if…
+
+  - …the footnote numbers are in- or out-of-order outside of the Footnotes section.
+
 Footnotes
 ============================================================
 
