@@ -15,9 +15,3 @@ max_line_length = off
 
 ## Other
 charset = utf-8
-
-## Files that require 2-space indents
-## -----------------------------------------------------------------------------
-[{*.md,*.rst}]
-indent_style = space
-indent_size = 2
