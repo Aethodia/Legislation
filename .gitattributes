@@ -1,0 +1,17 @@
+#NOTE: Run `git add : --renormalize` after editing this file.
+
+## Defaults
+## -----------------------------------------------------------------------------
+* text=auto eol=lf
+
+## Documentation
+## -----------------------------------------------------------------------------
+*.md  text
+*.rst text
+*.txt text
+
+## Media
+## -----------------------------------------------------------------------------
+*.mid binary
+#NOTE: Can be set to `text diff=xml`.
+*.svg binary
