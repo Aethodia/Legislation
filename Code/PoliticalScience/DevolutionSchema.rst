@@ -9,6 +9,13 @@ This file defines how power devolves from the national government to more-local 
 Contents
 ============================================================
 
+Devolutions
+------------------------------------------------------------
+
+- Theodia is to be divided into metropolitan areas (henceforth "metpols").
+
+- TODO
+
 LegalBindings
 ------------------------------------------------------------
 
