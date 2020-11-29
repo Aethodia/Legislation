@@ -9,7 +9,7 @@ This file defines **how to interpret laws**.
 Contents
 ============================================================
 
-- Every law must be interpreted per the official legal language.[5]_
+- Every law must be interpreted per the official legal language.[2]_
 
 - Only the 'Contents'[1]_ section of a law is legally binding.
 
@@ -18,6 +18,6 @@ Contents
 Footnotes
 ============================================================
 
-.. [1]  See ``LegalTextSpec:Structure``.
+.. [1] See ``LegalTextSpec:Structure``.
 
-.. [5]  The current legal language is specified in ``NationalSymbols``.  It is worth noting, that since this language is, presently, Theodian English;  all numbers in legislation are dozenal (duodecimal).
+.. [2] The current legal language is specified in ``NationalSymbols``.  It is worth noting, that since this language is, presently, Theodian English;  all numbers in legislation are dozenal (duodecimal).

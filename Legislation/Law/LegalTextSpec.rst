@@ -20,15 +20,15 @@ Filesystem
 
     - …adequately describes its contents.
 
-    - …each of whose words are capitalized [6]_.
+    - …each of whose words are capitalized[6]_.
 
     - …has no spaces.
 
     - …has '.rst' at its end.
 
-    - …has 30 [1]_ or fewer characters (not counting '.rst').
+    - …has 30[1]_ or fewer characters (not counting '.rst').
 
-    - …is unique among all other laws [7]_.
+    - …is unique among all other laws[7]_.
 
 - When a law cites another law, it is enough to give the law's [unique] filename (without '.rst').
 
@@ -49,7 +49,7 @@ Structure
 
       - …may mention the law's purpose, and previous work in the area.
 
-      - …may not be longer than 400 [1]_ words.
+      - …may not be longer than 400[1]_ words.
 
     - The second…
 
@@ -90,31 +90,29 @@ Formatting
 
     - …denoted by 50 characters.
 
-  - …every complete element [8]_ should be separated from any others by a newline.
+  - …every complete element[5]_ should be separated from any others by a newline.
 
   - …every legal provision is its own item in an ordered or unordered list.
 
 - It is encouraged (but not required) to…
 
-  - …embolden the most important parts of each law [2]_ [3]_.
+  - …embolden the most important parts of each law.[2]_[3]_
 
-  - …have all footnotes in each law occur in numerical order, from smallest-to-largest.
-
-  - …ensure that each law's footnote indices are complete integer-incremental series [4]_.
+  - …ensure that each law's footnote indices are complete integer-incremental series.[4]_
 
 Footnotes
 ============================================================
 
-.. [1]  This number is arbitrary.
+.. [1] This number is arbitrary.
 
-.. [2]  This is intended to make legislation easier to speed-read.
+.. [2] This is intended to make legislation easier to speed-read.
 
-.. [3]  A suggested way to go about this, is to embolden such that, when only the emboldened text is read, the gist of the law can be groked, even if the emboldened text is, by itself, not entirely grammatical.
+.. [3] A suggested way to go about this, is to embolden such that, when only the emboldened text is read, the gist of the law can be groked, even if the emboldened text is, by itself, not entirely grammatical.
 
-.. [4]  This means that there should be no sparse series;  there should be no holes.  For example, it is okay to have three footnotes numbered '1', '2', and '3';  but not okay to have three footnotes numbered '1', '2', and '4', since '4' differs from its predecessor by more than 1 (and is therefore not incremental).
+.. [4] This means that there should be no sparse series;  there should be no holes.  For example, it is okay to have three footnotes numbered '1', '2', and '3';  but not okay to have three footnotes numbered '1', '2', and '4', since '4' differs from its predecessor by more than 1 (and is therefore not incremental).
 
-.. [6]  This, of course, only applies for languages whose official scripts have capital letters.
+.. [5] "element", here, is generally speaking identical to a structural element in generated html.  So a title, which always takes up two lines, is one element;  and a bullet point, which always takes up one line, is also one element.
 
-.. [7]  This means a law's filename can serve as a unique identifier.
+.. [6] This, of course, only applies for languages whose official scripts have capital letters.
 
-.. [8]  "element", here, is generally speaking identical to a structural element in generated html.  So a title, which always takes up two lines, is one element;  and a bullet point, which always takes up one line, is also one element.
+.. [7] This means a law's filename can serve as a unique identifier.
