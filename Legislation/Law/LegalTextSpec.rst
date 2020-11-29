@@ -1,4 +1,4 @@
-LegalTextualSpec
+LegalTextSpec
 ############################################################
 
 Abstract
