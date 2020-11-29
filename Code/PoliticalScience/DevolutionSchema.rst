@@ -6,6 +6,11 @@ Abstract
 
 This file defines how power devolves from the national government to more-local polities.
 
+Optimizations often come at an expense;  and not everything can be optimized-for at once.
+People living in different areas may wish to specialize their local policies in ways that could not or should not be done at the national level.
+Likewise, areas may opt to have their local laws reflect their cultures.
+Giving significant autonomy to devolved legislatures allows these adjustments to happen, decreases federal instability, and gives room for them to compete and try out new and untested ideas, thus paving the way for the national policies of tomorrow.
+
 Contents
 ============================================================
 
