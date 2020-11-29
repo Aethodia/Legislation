@@ -9,9 +9,10 @@ This file **denotes** the **specifications** which a prospective piece of **legi
 Contents
 ============================================================
 
-- Every law must…
+Filesystem
+------------------------------------------------------------
 
-    - …be interpreted per the official legal language [5]_.
+- Every law must…
 
     - …be contained within a single file.
 
@@ -28,6 +29,13 @@ Contents
         - …has 30 [1]_ or fewer characters (not counting '.rst').
 
         - …is unique among all other laws [7]_.
+
+- When a law cites another law, it is enough to give the law's [unique] filename (without '.rst').
+
+Structure
+------------------------------------------------------------
+
+- Every law must…
 
     - …start with a level-one header, whose text should be identical to its filename withou '.rst'.
 
@@ -69,25 +77,28 @@ Contents
 
             - …should be sorted according to numerical order, from smallest-to-largest.
 
-    - …be formatted so that…
+Formatting
+------------------------------------------------------------
 
-        - …it is fully compliant with the reStructuredText specification at ``http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html``.
+- Every law must be formatted so that…
 
-        - …any references it makes to other files in this repository are formatted with code tags, like so:  ``Example``.
+    - …it is fully compliant with the reStructuredText specification at ``http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html``.
 
-        - …its section headers are…
+    - …any references it makes to other files in this repository are formatted with code tags, like so:  ``Example``.
 
-            - …composed of '#' for first-level headers.
+    - …its section headers are…
 
-            - …composed of '=' for second-level headers.
+        - …composed of '#' for first-level headers.
 
-            - …composed of '-' for third-level headers.
+        - …composed of '=' for second-level headers.
 
-            - …denoted by 50 characters.
+        - …composed of '-' for third-level headers.
 
-        - …every complete element [8]_ should be separated from any others by a newline.
+        - …denoted by 50 characters.
 
-        - …every legal provision is its own item in an ordered or unordered list.
+    - …every complete element [8]_ should be separated from any others by a newline.
+
+    - …every legal provision is its own item in an ordered or unordered list.
 
 - It is encouraged (but not required) to…
 
@@ -96,8 +107,6 @@ Contents
     - …have all footnotes in each law occur in numerical order, from smallest-to-largest.
 
     - …ensure that each law's footnote indices are complete integer-incremental series [4]_.
-
-#. When a law cites another law, it is enough to give the law's [unique] filename (without '.rst').
 
 Footnotes
 ============================================================
@@ -109,8 +118,6 @@ Footnotes
 .. [3]  A suggested way to go about this, is to embolden such that, when only the emboldened text is read, the gist of the law can be groked, even if the emboldened text is, by itself, not entirely grammatical.
 
 .. [4]  This means that there should be no sparse series;  there should be no holes.  For example, it is okay to have three footnotes numbered '1', '2', and '3';  but not okay to have three footnotes numbered '1', '2', and '4', since '4' differs from its predecessor by more than 1 (and is therefore not incremental).
-
-.. [5]  The current legal language is specified in ``NationalSymbols``.  It is worth noting, that since this language is, presently, Theodian English;  all numbers in legislation are dozenal (duodecimal).
 
 .. [6]  This, of course, only applies for languages whose official scripts have capital letters.
 
