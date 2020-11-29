@@ -4,7 +4,7 @@ NationalSymbols
 Abstract
 ============================================================
 
-This file **denotes** all de jure **national symbols** and such.
+This file **denotes** all *de jure* **national symbols** and such.
 
 Contents
 ============================================================
