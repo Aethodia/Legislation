@@ -53,6 +53,8 @@ Contents
 
             - …may have level-three subsections (other level-two sections may not).
 
+            - …must consist only of ordered or unordered lists.
+
         - The third…
 
             - …must be entitled "Footnotes".
