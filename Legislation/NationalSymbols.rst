@@ -15,11 +15,7 @@ B.  Contents
 
     #.  The national **ruleset** for this sport **is** ``/Resources/LarpRules.rst``.
 
-#.  The national **religion is Unitarian Universalism without** the **dogma**.
-
-    #.  Theodian UU **does not have** the **Seven Principles or** the **political agenda** of American UU.
-    #.  Theodian UU **does not focus on** the **Six Sources** of American UU.
-
+#.  The national **religion is Unitarian Universalism** as defined in ``UnitarianUniversalism``.
 #.  The national **political idealogy is** largely defined in ``PolicyRequisites``, and is a variety of **Radical Centrism** tempered **by Realpolitik**.
 #.  The **primary** national **language is Theodian**, which is defined in ``/Resources/Theodian.rst``.
 
