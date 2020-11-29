@@ -24,11 +24,15 @@ B.  Contents
 
         #.  …has 30 [1]_ or fewer characters (not counting '.rst').
 
-        #.  …is unique among all other laws.
+        #.  …is unique among all other laws [7]_.
 
-    #.  …have an internal structure as per the following:
+    #.  …start with a level-one header, whose text should be identical to its filename withou '.rst'.
 
-        #.  The first section should be entitled 'Abstract', and it…
+    #.  …have 3 level-two sections:
+
+        #.  The first…
+
+            #.  …must be entitled "Abstract".
 
             #.  …should summarize what the law does.
 
@@ -38,15 +42,17 @@ B.  Contents
 
             #.  …is not legally binding.
 
-        #.  The second section should be entitled 'Contents', and it…
+        #.  The second…
 
-            #.  …contains the legislation itself.
+            #.  …must be entitled "Contents".
 
             #.  …is legally binding.
 
-            #.  …TODO.
+            #.  …may have level-three subsections (other level-two sections may not).
 
-        #.  The third section should be entitled 'Footnotes', and it…
+        #.  The third…
+
+            #.  …must be entitled "Footnotes".
 
             #.  …is where all a law's footnotes are to be located.
 
@@ -60,11 +66,21 @@ B.  Contents
 
     #.  …be formatted so that…
 
-        #.  …they are fully compliant with the reStructuredText specification at ``http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html``.
+        #.  …it is fully compliant with the reStructuredText specification at ``http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html``.
 
-        #.  …paths and references to other files in this repository are formatted with code tags, like so:  ``Example``.
+        #.  …any references it makes to other files in this repository are formatted with code tags, like so:  ``Example``.
 
-        #.  …TODO.
+        #.  …its section headers are…
+
+            #.  …composed of '#' for first-level headers.
+
+            #.  …composed of '=' for second-level headers.
+
+            #.  …composed of '-' for third-level headers.
+
+            #.  …denoted by 50 characters.
+
+        #.  …every complete element [8]_ should be separated from any others by a newline.
 
 #.  It is encouraged (but not required) to…
 
@@ -90,3 +106,7 @@ C.  Footnotes
 .. [5]  The current legal language is specified in ``NationalSymbols``.  It is worth noting, that since this language is, presently, Theodian English;  all numbers in legislation are dozenal (duodecimal).
 
 .. [6]  This, of course, only applies for languages whose official scripts have capital letters.
+
+.. [7]  This means a law's filename can serve as a unique identifier.
+
+.. [8]  "element", here, is generally speaking identical to a structural element in generated html.  So a title, which always takes up two lines, is one element;  and a bullet point, which always takes up one line, is also one element.
