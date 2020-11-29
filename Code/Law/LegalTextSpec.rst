@@ -65,7 +65,7 @@ Structure
 
       - …may have level-three subsections (other level-two sections may not).
 
-      - …must consist only of ordered or unordered lists.
+      - …must consist only of ordered or unordered lists, or subheaders.
 
     - The third…
 
@@ -97,6 +97,14 @@ Formatting
     - …composed of '-' for third-level headers.
 
     - …denoted by 50 [1]_ characters.
+
+    - …subject to the same restrictions as law filenames, with the exceptions that they…
+
+      - …do not end with '.rst'.
+
+      - …do not have to be unique among all other laws.
+
+      - …have to be unique within the same law.
 
   - …every complete element [5]_ should be separated from any others by a newline.
 
