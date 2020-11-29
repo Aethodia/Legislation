@@ -15,6 +15,8 @@ Contents
 
 - The 'Footnotes' [1]_ section, while not itself legally binding, can serve as a guide when interpreting something that *is*.
 
+- A legally-active file in this repository is a "Law", and its legally-binding subcomponents are "provisions".
+
 Footnotes
 ============================================================
 
