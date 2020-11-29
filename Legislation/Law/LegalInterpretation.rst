@@ -4,16 +4,20 @@ LegalInterpretation
 Abstract
 ============================================================
 
-This file defines how to interpret laws.
+This file defines **how to interpret laws**.
 
 Contents
 ============================================================
 
-- Every law must…
+- Every law must be interpreted per the official legal language.[5]_
 
-  - …be interpreted per the official legal language [5]_.
+- Only the 'Contents'[1]_ section of a law is legally binding.
+
+- The 'Footnotes'[1]_ section, while not itself legally binging, can serve as a guide when interpreting something that *is* legally binding.
 
 Footnotes
 ============================================================
+
+.. [1]  See ``LegalTextSpec:Structure``.
 
 .. [5]  The current legal language is specified in ``NationalSymbols``.  It is worth noting, that since this language is, presently, Theodian English;  all numbers in legislation are dozenal (duodecimal).

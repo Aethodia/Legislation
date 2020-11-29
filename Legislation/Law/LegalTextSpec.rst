@@ -51,13 +51,9 @@ Structure
 
       - …may not be longer than 400 [1]_ words.
 
-      - …is not legally binding.
-
     - The second…
 
       - …must be entitled "Contents".
-
-      - …is legally binding.
 
       - …may have level-three subsections (other level-two sections may not).
 
@@ -72,8 +68,6 @@ Structure
       - …may be left out if the law has no footnotes.
 
       - …is primarily intended to provide sources, thoughts, reasonings, interpretation guides, etc for provisions within a law.
-
-      - …is not itself legally binding, although it can assist with the interpretation of an ambiguous law.
 
       - …should be sorted according to numerical order, from smallest-to-largest.
 
