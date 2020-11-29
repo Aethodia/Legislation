@@ -30,7 +30,15 @@ Filesystem
 
     - …is unique among all other laws[7]_.
 
-- When a law cites another law, it is enough to give the law's [unique] filename (without '.rst').
+- When a law cites another law…
+
+  - …it is enough to give the law's [unique] filename (without '.rst').
+
+  - …it can point to…
+
+    - …a specific level-three section (always under 'Contents') with the following syntax:  ``LawName:SubsectionName``.
+
+    - …a specific line number (This requires specifying a version number, as line numbers are not otherwise static!), with the following syntax:  ``Version/LawName:LineNumber``.
 
 Structure
 ------------------------------------------------------------
