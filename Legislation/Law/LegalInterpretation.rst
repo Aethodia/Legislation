@@ -13,7 +13,7 @@ Contents
 
 - Only the 'Contents'[1]_ section of a law is legally binding.
 
-- The 'Footnotes'[1]_ section, while not itself legally binging, can serve as a guide when interpreting something that *is* legally binding.
+- The 'Footnotes'[1]_ section, while not itself legally binding, can serve as a guide when interpreting something that *is*.
 
 Footnotes
 ============================================================
