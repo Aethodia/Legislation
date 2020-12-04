@@ -8,6 +8,7 @@ This file defines **Theodian Unitarian Universalism**.
 
 Contents
 ============================================================
+``Binding:O`` [1]_
 
 - **Theodian Unitarian Universalism** (henceforth "Theodian UU")…
 
@@ -18,3 +19,8 @@ Contents
   - …**does not focus on** the **Six Sources** of UUA UU.
 
   - …**does not have** the **political agendas of UUA** UU.
+
+Footnotes
+============================================================
+
+.. [1] Devolutional bindings are defined in ``DevolutionScheme``.

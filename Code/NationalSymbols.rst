@@ -18,7 +18,7 @@ Contents
 
 - The official **political idealogy is** largely defined in ``PolicyRequisites``.[2]_ ``Binding:O``
 
-- The official **religion is Unitarian Universalism** (``UnitarianUniversalism``). ``Binding:A``
+- The official **religion is** Theodian **Unitarian Universalism** (``UnitarianUniversalism``). ``Binding:O``
 
 - The official **sport is battlegaming**. ``Binding:O``
 
