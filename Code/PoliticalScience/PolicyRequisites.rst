@@ -8,10 +8,11 @@ This file defines the theoretical **requisites of all** government **policy**.
 
 Contents
 ============================================================
+``Binding:A`` [1]_
 
 - Preface
 
-  - **All policy is subject to** the same primary and secondary **ablatives**, **locatives**, and **datives** [1]_.
+  - **All policy is subject to** the same primary and secondary **ablatives**, **locatives**, and **datives** [2]_.
 
   - **Ablatives are justifications**.
 
@@ -64,4 +65,6 @@ Contents
 Footnotes
 ============================================================
 
-.. [1] While this may seem like strange terminology, it directly corresponds to one of Theodian's case axies.  Fundamentally, "ablative, locative, dative" corresponds to "from, at, to".  In this law, ablatives represent source information, locatives reprensent the state of the policy itself, and datives represent the goal(s) of the policy;  as such, the chosen vocabulary is hardly inaccurate.
+.. [1] Devolutional bindings are defined in ``DevolutionScheme:LegalBindings``.
+
+.. [2] While this may seem like strange terminology, it directly corresponds to one of Theodian's case axies.  Fundamentally, "ablative, locative, dative" corresponds to "from, at, to".  In this law, ablatives represent source information, locatives reprensent the state of the policy itself, and datives represent the goal(s) of the policy;  as such, the chosen vocabulary is hardly inaccurate.

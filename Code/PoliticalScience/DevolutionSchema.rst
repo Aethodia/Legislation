@@ -13,6 +13,7 @@ Giving significant autonomy to devolved legislatures allows these adjustments to
 
 Contents
 ============================================================
+``Binding:N`` [1]_
 
 Devolutions
 ------------------------------------------------------------
@@ -37,3 +38,8 @@ LegalBindings
 - The default binding (where one is not explicitly stated) is ``Binding:O``.
 
 - A law can set bindings on itself and its provisions by adding a binding tag (see above) where desired.
+
+Footnotes
+============================================================
+
+.. [1] Devolutional bindings are defined in ``DevolutionScheme:LegalBindings``.

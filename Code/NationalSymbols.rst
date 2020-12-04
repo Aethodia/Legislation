@@ -39,7 +39,7 @@ Contents
 Footnotes
 ============================================================
 
-.. [1] Devolutional bindings are defined in ``DevolutionScheme``.
+.. [1] Devolutional bindings are defined in ``DevolutionScheme:LegalBindings``.
 
 .. [2] It is, summarily, a variety of **Radical Centrism** tempered **by Realpolitik**.
 

@@ -23,4 +23,4 @@ Contents
 Footnotes
 ============================================================
 
-.. [1] Devolutional bindings are defined in ``DevolutionScheme``.
+.. [1] Devolutional bindings are defined in ``DevolutionScheme:LegalBindings``.
